@@ -1,0 +1,52 @@
+:root {
+  /* 主题色 */
+  --yw-primary: #098d72;
+  --yw-primary-hover: #53af9c;
+  --yw-primary-two: #5C7BFF;
+
+
+  /* 背景色 */
+  --yw-bg-fff: #fff;
+  --yw-bg-ccc: #ccc;
+  --yw-bg-f4f4f4: #f4f4f4;
+  --yw-bg-f8f8f8: #f8f8f8;
+  --yw-bg-f8f8fa: #f8f8fa;
+  --yw-bg-dcdee0: #dcdee0;
+  --yw-bg-fefbea: #fefbea;
+  --yw-bg-f0f0f0: #f0f0f0;
+  --yw-bg-f0f7f0: #f0f7f0;
+  --yw-bg-ebeef5: #ebeef5;
+  --yw-bg-ebedf0: #ebedf0;
+  --yw-bg-d7d7d7: #d7d7d7;
+  --yw-bg-f6b743: #f6b743;
+  --yw-bg-ef6706: #ef6706;
+  --yw-bg-026853: #026853;
+  --yw-bg-3984F8: #3984F8;
+  --yw-bg-3883F6: #3883F6;
+  --yw-bg-d81e06: #d81e06;
+  --yw-bg-fe3a3b: #fe3a3b;
+  --yw-bg-8a9ce8: #8a9ce8;
+  --yw-bg-color: rgba(9, 141, 114, 0.05);
+  --yw-bg2-color: rgba(85, 85, 85, 0.33);
+
+
+  /* 字体颜色 */
+  --yw-text-000: #000;
+  --yw-text-111: #111;
+  --yw-text-333: #333;
+  --yw-text-555: #555;
+  --yw-text-666: #666;
+  --yw-text-999: #999;
+  --yw-text-fff: #fff;
+  --yw-text-f00: #f00;
+  --yw-text-f3294d: #f3294d;
+  --yw-text-a8abb2: #a8abb2;
+  --yw-text-969799: #969799;
+  --yw-text-4a4a4a: #4a4a4a;
+  --yw-text-ef6706: #ef6706;
+  --yw-text-026853: #026853;
+  --yw-text-3984f8: #3984f8;
+  --yw-text-4460ee: #4460ee;
+  --yw-text-5b7aff: #5b7aff;
+  --yw-text-8a9ce8: #8a9ce8;
+}

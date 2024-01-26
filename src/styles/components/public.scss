@@ -1,0 +1,76 @@
+// 公共样式
+.public_sf {
+  font-size: 12px;
+  padding: 2px 6px;
+  line-height: 12px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 4px 4px 4px 4px;
+}
+
+//自营
+.self_support {
+  color: var(--yw-text-026853);
+  border: 1px solid var(--yw-bg-026853);
+}
+
+//媒体主
+.media_owner {
+  color: var(--yw-text-ef6706);
+  border: 1px solid var(--yw-bg-ef6706);
+}
+
+//服务商
+.service_provider {
+  color: var(--yw-text-3984f8);
+  border: 1px solid var(--yw-bg-3984F8);
+}
+
+.public_state {
+  color: var(--yw-text-fff);
+  cursor: default;
+  font-size: 12px;
+  padding: 1px 5px;
+  line-height: 17px;
+  text-align: center;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+//审核通过
+.approve {
+  background: var(--yw-bg-3883F6);
+}
+
+//待审核
+.under_review {
+  background: var(--yw-bg-f6b743);
+}
+
+//审核不通过
+.no_pass {
+  display: flex;
+
+  .no_pass_span {
+    cursor: default;
+    font-size: 12px;
+    padding: 1px 5px;
+    line-height: 17px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+    background: var(--yw-bg-fe3a3b);
+  }
+
+  .no_pass_icon {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    color: var(--yw-text-fff);
+    line-height: 16px;
+    text-align: center;
+    background-color: var(--yw-bg-d81e06);
+    border-radius: 50%;
+    margin-left: 7px;
+  }
+}

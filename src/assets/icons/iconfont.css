@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4292779 */
+  src: url('iconfont.woff2?t=1702629316458') format('woff2'),
+       url('iconfont.woff?t=1702629316458') format('woff'),
+       url('iconfont.ttf?t=1702629316458') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-redact:before {
+  content: "\e613";
+}
+
+.icon-fapiaowenti:before {
+  content: "\e614";
+}
+
+.icon-shangchuan:before {
+  content: "\e661";
+}
+
+.icon-a-flow:before {
+  content: "\e610";
+}
+
+.icon-a-fans:before {
+  content: "\e611";
+}
+
+.icon-position:before {
+  content: "\e60d";
+}
+
+.icon-article:before {
+  content: "\e60c";
+}
+
+.icon-mimakejian:before {
+  content: "\e621";
+}
+
+.icon-yincangmima:before {
+  content: "\e654";
+}
+
+.icon-file-copy:before {
+  content: "\e712";
+}
+
+.icon-viewDetails:before {
+  content: "\e60b";
+}
+
+.icon-dingdan:before {
+  content: "\e649";
+}
+
+.icon-yonghu:before {
+  content: "\e638";
+}
+
+.icon-bumenfankui:before {
+  content: "\e63b";
+}
+
+.icon-Vector:before {
+  content: "\e608";
+}
+
+.icon-set:before {
+  content: "\e609";
+}
+
+.icon-media:before {
+  content: "\e60a";
+}
+
